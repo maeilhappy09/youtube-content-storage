@@ -1,0 +1,1250 @@
+{
+  "session_id": "20250706_070418",
+  "timestamp": "2025-07-06T07:11:37.360272",
+  "sentence_count": 138,
+  "total_duration": 838.5829999999996,
+  "sentence_timings": [
+    {
+      "index": 0,
+      "text": "그날 아침도 여느 때와 다름없었습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_000_normal.mp3",
+      "duration": 2.952,
+      "start_time": 0,
+      "end_time": 2.952
+    },
+    {
+      "index": 1,
+      "text": "부엌 창문으로 스며드는 따스한 햇살은 내게 평화를 가져다주었고, 식탁에 앉아 신문을 보던 남편의 모습이 아직도 선명해요",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_001_normal.mp3",
+      "duration": 9.456,
+      "start_time": 3.252,
+      "end_time": 12.707999999999998
+    },
+    {
+      "index": 2,
+      "text": "\"여보, 오늘 점심은 뭐 먹을까?\"라고 물었더니, 그는 \"아무거나 괜찮아, 너가 해주는 게 제일 맛있어.\"라며 싱긋 웃었습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_002_normal.mp3",
+      "duration": 9.561,
+      "start_time": 13.008,
+      "end_time": 22.569
+    },
+    {
+      "index": 3,
+      "text": "그때는 그게 우리의 일상이었고, 작은 행복이었어요",
+      "emotion": "hope",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_003_hope.mp3",
+      "duration": 4.859,
+      "start_time": 22.869,
+      "end_time": 27.728
+    },
+    {
+      "index": 4,
+      "text": "남편과의 결혼 생활도 벌써 50년이 넘었네요",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_004_normal.mp3",
+      "duration": 3.422,
+      "start_time": 28.028000000000002,
+      "end_time": 31.450000000000003
+    },
+    {
+      "index": 5,
+      "text": "그렇다고 할지라도, 매일 아침 이렇게 함께 있는 것이 얼마나 감사한지 잊은 적이 없어요",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_005_normal.mp3",
+      "duration": 6.922,
+      "start_time": 31.750000000000004,
+      "end_time": 38.672000000000004
+    },
+    {
+      "index": 6,
+      "text": "딸인 수진은 대학생이지만, 늘 바쁘게 움직이고 있어서, 아침마다 함께하는 일이 드물었습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_006_normal.mp3",
+      "duration": 7.288,
+      "start_time": 38.972,
+      "end_time": 46.260000000000005
+    },
+    {
+      "index": 7,
+      "text": "그날의 수진은 평소와는 다른 느낌이었어요",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_007_normal.mp3",
+      "duration": 2.952,
+      "start_time": 46.56,
+      "end_time": 49.512
+    },
+    {
+      "index": 8,
+      "text": "대학교에서 친구들과 놀다 온 듯한 화사한 옷차림으로 집에 들어온 그녀는, “엄마",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_008_normal.mp3",
+      "duration": 6.583,
+      "start_time": 49.812,
+      "end_time": 56.394999999999996
+    },
+    {
+      "index": 9,
+      "text": "나 오늘 특별한 이야기가 있어요!”라고 말했습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_009_normal.mp3",
+      "duration": 4.362,
+      "start_time": 56.69499999999999,
+      "end_time": 61.056999999999995
+    },
+    {
+      "index": 10,
+      "text": "그 목소리에서 설렘이 느껴졌지만, 동시에 뭔가 불안한 예감이 스쳤죠",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_010_normal.mp3",
+      "duration": 5.381,
+      "start_time": 61.35699999999999,
+      "end_time": 66.738
+    },
+    {
+      "index": 11,
+      "text": "“무슨 이야기인데?” 궁금한 마음이 앞섰지만, 그녀는 미소 지으며 “내가 결혼할 사람을 소개해줄게요.”라고 덧붙였습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_011_normal.mp3",
+      "duration": 10.266,
+      "start_time": 67.038,
+      "end_time": 77.304
+    },
+    {
+      "index": 12,
+      "text": "그 말을 듣고 가슴이 쿵해지는 느낌이었죠",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_012_normal.mp3",
+      "duration": 3.37,
+      "start_time": 77.604,
+      "end_time": 80.974
+    },
+    {
+      "index": 13,
+      "text": "그 순간, 모든 것이 변할 것 같은 예감이 들었어요",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_013_normal.mp3",
+      "duration": 4.415,
+      "start_time": 81.274,
+      "end_time": 85.68900000000001
+    },
+    {
+      "index": 14,
+      "text": "저녁 식사 후, 그 이야기가 계속 떠올랐습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_014_normal.mp3",
+      "duration": 3.762,
+      "start_time": 85.989,
+      "end_time": 89.751
+    },
+    {
+      "index": 15,
+      "text": "가끔씩 온 가족이 둘러앉아 나누는 작은 대화들이 소중하게 느껴지던 시절이었는데, 이제는 그 대화가 무언가 두렵게만 느껴졌습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_015_normal.mp3",
+      "duration": 10.58,
+      "start_time": 90.051,
+      "end_time": 100.631
+    },
+    {
+      "index": 16,
+      "text": "“결혼이라니… 아직 그녀는 너무 어리잖아.”라는 생각이 머릿속을 맴돌았습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_016_normal.mp3",
+      "duration": 5.982,
+      "start_time": 100.931,
+      "end_time": 106.913
+    },
+    {
+      "index": 17,
+      "text": "수진이 소개할 사람은 누구인지, 그와의 관계가 어떻게 될지 모두가 궁금했습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_017_normal.mp3",
+      "duration": 5.878,
+      "start_time": 107.213,
+      "end_time": 113.091
+    },
+    {
+      "index": 18,
+      "text": "그러나 그 모든 의문은 곧 긴장감으로 변했습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_018_normal.mp3",
+      "duration": 3.892,
+      "start_time": 113.39099999999999,
+      "end_time": 117.28299999999999
+    },
+    {
+      "index": 19,
+      "text": "나도 모르게 걱정이 커지면서, 그 당시의 수진의 표정이 떠올랐죠",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_019_normal.mp3",
+      "duration": 4.859,
+      "start_time": 117.58299999999998,
+      "end_time": 122.44199999999998
+    },
+    {
+      "index": 20,
+      "text": "“엄마, 알겠죠",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_020_normal.mp3",
+      "duration": 1.698,
+      "start_time": 122.74199999999998,
+      "end_time": 124.43999999999997
+    },
+    {
+      "index": 21,
+      "text": "사랑하는 사람과 함께하는 건 정말 중요한 일이에요.”라는 말이 자꾸 머리에 맴돌며, 수진의 말이 지닌 무게를 느끼게 했습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_021_normal.mp3",
+      "duration": 9.221,
+      "start_time": 124.73999999999997,
+      "end_time": 133.96099999999996
+    },
+    {
+      "index": 22,
+      "text": "그 후 며칠간, 수진에게서 이상한 기류를 느끼기 시작했습니다",
+      "emotion": "action",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_022_action.mp3",
+      "duration": 5.433,
+      "start_time": 134.26099999999997,
+      "end_time": 139.69399999999996
+    },
+    {
+      "index": 23,
+      "text": "친구들과 대화할 때처럼 수다스럽고 즐거운 표정이 아니라, 무언가를 숨기고 있는 듯한 표정이었습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_023_normal.mp3",
+      "duration": 7.523,
+      "start_time": 139.99399999999997,
+      "end_time": 147.51699999999997
+    },
+    {
+      "index": 24,
+      "text": "“무슨 일 있어?”라고 물어봤지만, 그녀는 “아니, 그냥 바쁘다구요.”라고 답하며 눈을 피했습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_024_normal.mp3",
+      "duration": 6.922,
+      "start_time": 147.81699999999998,
+      "end_time": 154.73899999999998
+    },
+    {
+      "index": 25,
+      "text": "밤잠을 이루지 못하는 일이 많아졌고, 불안감이 커져갔습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_025_normal.mp3",
+      "duration": 4.911,
+      "start_time": 155.039,
+      "end_time": 159.95
+    },
+    {
+      "index": 26,
+      "text": "“정말 수진이 결혼할 사람이 어떤 사람인가?”라는 생각이 날이 갈수록 뚜렷하게 다가왔습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_026_normal.mp3",
+      "duration": 6.165,
+      "start_time": 160.25,
+      "end_time": 166.415
+    },
+    {
+      "index": 27,
+      "text": "남편에게도 이야기를 꺼내볼까 했지만, 그의 대답을 듣는 것이 두려워서 입을 다물고 있었어요",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_027_normal.mp3",
+      "duration": 6.949,
+      "start_time": 166.715,
+      "end_time": 173.66400000000002
+    },
+    {
+      "index": 28,
+      "text": "“어쩌면 내가 과민 반응하는 걸지도.”라는 생각이 들기도 했지만, 내 마음속 불안은 나를 더욱 괴롭게 만들었습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_028_normal.mp3",
+      "duration": 8.438,
+      "start_time": 173.96400000000003,
+      "end_time": 182.40200000000002
+    },
+    {
+      "index": 29,
+      "text": "며칠 후, 정말로 수진이 결혼하고자 하는 사람을 소개해 주겠다고 했습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_029_normal.mp3",
+      "duration": 5.799,
+      "start_time": 182.70200000000003,
+      "end_time": 188.50100000000003
+    },
+    {
+      "index": 30,
+      "text": "그날은 비 오는 날이었어요",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_030_normal.mp3",
+      "duration": 1.855,
+      "start_time": 188.80100000000004,
+      "end_time": 190.65600000000003
+    },
+    {
+      "index": 31,
+      "text": "우중충한 날씨와는 반대로, 내 마음은 어두웠습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_031_normal.mp3",
+      "duration": 3.944,
+      "start_time": 190.95600000000005,
+      "end_time": 194.90000000000003
+    },
+    {
+      "index": 32,
+      "text": "“정말 괜찮을까?” 하는 생각이 머릿속을 떠나지 않았죠",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_032_normal.mp3",
+      "duration": 4.023,
+      "start_time": 195.20000000000005,
+      "end_time": 199.22300000000004
+    },
+    {
+      "index": 33,
+      "text": "수진은 자신이 좋아하는 사람과 함께 저녁을 먹고 싶다고 했고, 나는 설레면서도 불안한 마음이 저릿저릿한 옆구리로 스며들었습니다",
+      "emotion": "hope",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_033_hope.mp3",
+      "duration": 9.639,
+      "start_time": 199.52300000000005,
+      "end_time": 209.16200000000006
+    },
+    {
+      "index": 34,
+      "text": "“누구지",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_034_normal.mp3",
+      "duration": 1.254,
+      "start_time": 209.46200000000007,
+      "end_time": 210.71600000000007
+    },
+    {
+      "index": 35,
+      "text": "정말 괜찮은 사람일까?”라는 질문이 계속 떠올랐고, 그런 질문에 스스로 대답할 수 없었습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_035_normal.mp3",
+      "duration": 7.367,
+      "start_time": 211.01600000000008,
+      "end_time": 218.38300000000007
+    },
+    {
+      "index": 36,
+      "text": "수진이 데리고 온 남자는 솔직하고 밝은 성격이었습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_036_normal.mp3",
+      "duration": 3.788,
+      "start_time": 218.68300000000008,
+      "end_time": 222.4710000000001
+    },
+    {
+      "index": 37,
+      "text": "그는 “안녕하세요",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_037_normal.mp3",
+      "duration": 1.62,
+      "start_time": 222.7710000000001,
+      "end_time": 224.3910000000001
+    },
+    {
+      "index": 38,
+      "text": "수진이와는 오래된 친구입니다.”라며 나에게 인사를 했고, 나는 내심 충격을 받았습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_038_normal.mp3",
+      "duration": 6.034,
+      "start_time": 224.69100000000012,
+      "end_time": 230.7250000000001
+    },
+    {
+      "index": 39,
+      "text": "“놀라운 일이야… 왜 이렇게 우울한 기운이 도는 건가?”라는 생각이 들었죠",
+      "emotion": "empathy",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_039_empathy.mp3",
+      "duration": 5.277,
+      "start_time": 231.02500000000012,
+      "end_time": 236.3020000000001
+    },
+    {
+      "index": 40,
+      "text": "하지만 그의 따뜻한 미소와 수진의 밝은 모습에 조금씩 안심이 되었던 것도 사실입니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_040_normal.mp3",
+      "duration": 6.766,
+      "start_time": 236.60200000000012,
+      "end_time": 243.3680000000001
+    },
+    {
+      "index": 41,
+      "text": "그와 저녁을 함께 나누며, 여러 가지 이야기를 나누었고, 그는 수진에게 대한 애정어린 시선을 보냈습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_041_normal.mp3",
+      "duration": 8.124,
+      "start_time": 243.66800000000012,
+      "end_time": 251.79200000000012
+    },
+    {
+      "index": 42,
+      "text": "“수진이와 함께라면 행복할 것 같아요.”라는 그의 말은 내 마음속에서 불안한 감정을 조금 덜어주었죠",
+      "emotion": "hope",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_042_hope.mp3",
+      "duration": 8.385,
+      "start_time": 252.09200000000013,
+      "end_time": 260.47700000000015
+    },
+    {
+      "index": 43,
+      "text": "하지만 그런 평온도 오래가지 않았습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_043_normal.mp3",
+      "duration": 2.403,
+      "start_time": 260.77700000000016,
+      "end_time": 263.1800000000002
+    },
+    {
+      "index": 44,
+      "text": "며칠이 지나도 마음속의 불안감은 가시지 않았습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_044_normal.mp3",
+      "duration": 3.709,
+      "start_time": 263.4800000000002,
+      "end_time": 267.1890000000002
+    },
+    {
+      "index": 45,
+      "text": "자꾸만 불안한 신호가 들어오고, 주변 사람들에게 수진에 대해 물어보곤 했습니다",
+      "emotion": "warning",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_045_warning.mp3",
+      "duration": 5.93,
+      "start_time": 267.4890000000002,
+      "end_time": 273.4190000000002
+    },
+    {
+      "index": 46,
+      "text": "“그 남자, 정말 괜찮은 사람인가?” 하고 물어봤지만, 제 주변 친구들은 “아이가 사랑하는 사람과 함께하는 건 좋은 일이지",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_046_normal.mp3",
+      "duration": 9.43,
+      "start_time": 273.7190000000002,
+      "end_time": 283.1490000000002
+    },
+    {
+      "index": 47,
+      "text": "그게 가장 중요해!”라고 말했습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_047_normal.mp3",
+      "duration": 3.37,
+      "start_time": 283.44900000000024,
+      "end_time": 286.81900000000024
+    },
+    {
+      "index": 48,
+      "text": "그 말은 나에게는 큰 위안이었지만, 동시에 두려움도 함께 느껴졌습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_048_normal.mp3",
+      "duration": 5.433,
+      "start_time": 287.11900000000026,
+      "end_time": 292.55200000000025
+    },
+    {
+      "index": 49,
+      "text": "“그냥 내 마음이 불안한 건가?”라는 질문이 끊임없이 나를 괴롭혔죠",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_049_normal.mp3",
+      "duration": 4.362,
+      "start_time": 292.85200000000026,
+      "end_time": 297.2140000000003
+    },
+    {
+      "index": 50,
+      "text": "그런 순간, 나는 또 다른 사람의 유사한 이야기를 떠올렸습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_050_normal.mp3",
+      "duration": 5.016,
+      "start_time": 297.5140000000003,
+      "end_time": 302.5300000000003
+    },
+    {
+      "index": 51,
+      "text": "나의 친구 중 한 명이 딸이 결혼하는 것을 반대한 경험이 있었고, 그 친구는 결국 딸과 불화를 겪었다고 했습니다",
+      "emotion": "wisdom",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_051_wisdom.mp3",
+      "duration": 8.49,
+      "start_time": 302.8300000000003,
+      "end_time": 311.32000000000033
+    },
+    {
+      "index": 52,
+      "text": "“아, 이럴 바에야 차라리 안전하게 지켜보는 게 좋을까?”라는 생각이었습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_052_normal.mp3",
+      "duration": 5.433,
+      "start_time": 311.62000000000035,
+      "end_time": 317.05300000000034
+    },
+    {
+      "index": 53,
+      "text": "하지만 수진에게 무언가를 묻는 게 두렵기만 했죠",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_053_normal.mp3",
+      "duration": 3.422,
+      "start_time": 317.35300000000035,
+      "end_time": 320.7750000000004
+    },
+    {
+      "index": 54,
+      "text": "“사랑하는 자식이 힘들어하도록 방관하는 게 옳은 걸까?”라는 생각이 너무나 큰 갈등으로 내 마음을 짓눌렀습니다",
+      "emotion": "empathy",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_054_empathy.mp3",
+      "duration": 8.176,
+      "start_time": 321.0750000000004,
+      "end_time": 329.2510000000004
+    },
+    {
+      "index": 55,
+      "text": "결국, 나는 나의 불안을 정리할 수 없었습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_055_normal.mp3",
+      "duration": 3.84,
+      "start_time": 329.5510000000004,
+      "end_time": 333.39100000000036
+    },
+    {
+      "index": 56,
+      "text": "어느 날, 수진과 함께 있는 시간을 가졌고, 그 기회를 통해 그녀에게 직접 물어볼 결심을 했습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_056_normal.mp3",
+      "duration": 8.072,
+      "start_time": 333.6910000000004,
+      "end_time": 341.7630000000004
+    },
+    {
+      "index": 57,
+      "text": "“수진아, 네가 결혼하고 싶어하는 그 사람에 대해 조금 더 알고 싶어.”라고 말했습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_057_normal.mp3",
+      "duration": 5.695,
+      "start_time": 342.0630000000004,
+      "end_time": 347.7580000000004
+    },
+    {
+      "index": 58,
+      "text": "수진은 잠시 뜸을 들이다가 숨을 깊이 쉬더니, “엄마… 사실 그 사람과의 관계는 정말 소중해요",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_058_normal.mp3",
+      "duration": 7.236,
+      "start_time": 348.0580000000004,
+      "end_time": 355.2940000000004
+    },
+    {
+      "index": 59,
+      "text": "오해하지 말아 주세요.”라고 했습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_059_normal.mp3",
+      "duration": 2.952,
+      "start_time": 355.5940000000004,
+      "end_time": 358.5460000000004
+    },
+    {
+      "index": 60,
+      "text": "그녀의 목소리에는 나를 걱정하는 감정이 잔뜩 실려 있었고, 나도 그 말을 듣고 그녀의 진심을 느낄 수 있었습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_060_normal.mp3",
+      "duration": 9.012,
+      "start_time": 358.8460000000004,
+      "end_time": 367.8580000000004
+    },
+    {
+      "index": 61,
+      "text": "그렇게 수진은 그 남자와의 관계가 어떻게 발전되고 있는지, 실제로 그가 어떤 사람인지 하나하나 자세히 말하기 시작했습니다",
+      "emotion": "action",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_061_action.mp3",
+      "duration": 10.266,
+      "start_time": 368.1580000000004,
+      "end_time": 378.42400000000043
+    },
+    {
+      "index": 62,
+      "text": "“그는 정말 좋은 사람이에요",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_062_normal.mp3",
+      "duration": 2.038,
+      "start_time": 378.72400000000044,
+      "end_time": 380.76200000000046
+    },
+    {
+      "index": 63,
+      "text": "제가 힘들 때 언제나 저를 지켜주고, 함께 웃고, 그리고 저를 이해해 줘요”라고 말했습니다",
+      "emotion": "empathy",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_063_empathy.mp3",
+      "duration": 6.87,
+      "start_time": 381.06200000000047,
+      "end_time": 387.93200000000047
+    },
+    {
+      "index": 64,
+      "text": "그런 이야기를 들으니 내 마음이 누그러졌지만, “그런데, 그 사람은 가족을 어떻게 생각할까?”라는 물음이 계속 머릿속을 떠돌았습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_064_normal.mp3",
+      "duration": 9.509,
+      "start_time": 388.2320000000005,
+      "end_time": 397.7410000000005
+    },
+    {
+      "index": 65,
+      "text": "그러던 중, 수진이 결혼하겠다고 선언하는 순간이 다가왔습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_065_normal.mp3",
+      "duration": 4.833,
+      "start_time": 398.0410000000005,
+      "end_time": 402.87400000000054
+    },
+    {
+      "index": 66,
+      "text": "“엄마, 저는 결혼할 거예요.”라는 말이 내게 던져진 순간, 숨소리가 막혔습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_066_normal.mp3",
+      "duration": 6.217,
+      "start_time": 403.17400000000055,
+      "end_time": 409.39100000000053
+    },
+    {
+      "index": 67,
+      "text": "“결혼?”이라는 단어가 내 가슴 깊숙이 박혔고, 그 순간의 충격은 말로 설명할 수 없을 정도였죠",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_067_normal.mp3",
+      "duration": 7.053,
+      "start_time": 409.69100000000054,
+      "end_time": 416.74400000000054
+    },
+    {
+      "index": 68,
+      "text": "“이건 내가 준비되지 않은 일인데… 왜 이렇게 황급하게 결정을 내리게 된 거지?”라는 생각이 밀려왔습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_068_normal.mp3",
+      "duration": 7.889,
+      "start_time": 417.04400000000055,
+      "end_time": 424.93300000000056
+    },
+    {
+      "index": 69,
+      "text": "그렇게 나는 두려움에 사로잡혔습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_069_normal.mp3",
+      "duration": 3.187,
+      "start_time": 425.2330000000006,
+      "end_time": 428.4200000000006
+    },
+    {
+      "index": 70,
+      "text": "“수진아, 그런 결정은 충분히 고민해 봐야 해!”라는 말이 입에서 나왔습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_070_normal.mp3",
+      "duration": 5.512,
+      "start_time": 428.7200000000006,
+      "end_time": 434.2320000000006
+    },
+    {
+      "index": 71,
+      "text": "그 말을 들은 수진은 내게 큰 눈을 뜨고, 격해진 목소리로 대답했습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_071_normal.mp3",
+      "duration": 5.851,
+      "start_time": 434.5320000000006,
+      "end_time": 440.3830000000006
+    },
+    {
+      "index": 72,
+      "text": "“엄마, 이건 제 인생이에요",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_072_normal.mp3",
+      "duration": 2.22,
+      "start_time": 440.6830000000006,
+      "end_time": 442.90300000000065
+    },
+    {
+      "index": 73,
+      "text": "제가 사랑하는 사람과 함께 한다는 건 정말 소중한 일이에요.” 그 말이 나의 가슴을 후벼 팠습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_073_normal.mp3",
+      "duration": 6.504,
+      "start_time": 443.20300000000066,
+      "end_time": 449.7070000000007
+    },
+    {
+      "index": 74,
+      "text": "“내가 사랑하는 사람과 함께하는 것은 정말 행복한 일이겠지… 하지만 그 사람과의 관계에 대해 더 자세히 알고 싶어!”라는 생각이 점점 깊어졌습니다",
+      "emotion": "hope",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_074_hope.mp3",
+      "duration": 12.852,
+      "start_time": 450.0070000000007,
+      "end_time": 462.85900000000066
+    },
+    {
+      "index": 75,
+      "text": "무엇보다도, 내 딸의 결정을 존중하고 싶었지만, 나는 그녀의 행복이 내 기대와는 다르게 나올까봐 두려웠습니다",
+      "emotion": "hope",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_075_hope.mp3",
+      "duration": 8.542,
+      "start_time": 463.1590000000007,
+      "end_time": 471.70100000000065
+    },
+    {
+      "index": 76,
+      "text": "“나는 너를 사랑해… 하지만…”라는 말이 내 입술에 걸렸지만, 스스로의 말을 꺼내는 것이 너무나 힘들었습니다",
+      "emotion": "empathy",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_076_empathy.mp3",
+      "duration": 8.49,
+      "start_time": 472.00100000000066,
+      "end_time": 480.49100000000067
+    },
+    {
+      "index": 77,
+      "text": "수진은 더 이상 내 말을 듣지 않겠다고, 상처받았다고 표현했죠",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_077_normal.mp3",
+      "duration": 4.624,
+      "start_time": 480.7910000000007,
+      "end_time": 485.4150000000007
+    },
+    {
+      "index": 78,
+      "text": "그렇게 우리는 서로의 마음이 아닌, 서로의 기대 속에서 갈등하게 되었습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_078_normal.mp3",
+      "duration": 5.46,
+      "start_time": 485.7150000000007,
+      "end_time": 491.1750000000007
+    },
+    {
+      "index": 79,
+      "text": "하루하루가 흐르면서, 불안한 마음은 더욱 깊어갔습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_079_normal.mp3",
+      "duration": 4.493,
+      "start_time": 491.4750000000007,
+      "end_time": 495.9680000000007
+    },
+    {
+      "index": 80,
+      "text": "수진이 그 남자와 함께 있는 모습이 보일 때마다, 내 마음속에서 ‘결혼은 정말 올바른 선택이었어?’라는 질문이 올라왔습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_080_normal.mp3",
+      "duration": 9.195,
+      "start_time": 496.2680000000007,
+      "end_time": 505.4630000000007
+    },
+    {
+      "index": 81,
+      "text": "그러면서도 그 남자와의 관계를 끊임없이 의심하게 되었습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_081_normal.mp3",
+      "duration": 4.911,
+      "start_time": 505.7630000000007,
+      "end_time": 510.6740000000007
+    },
+    {
+      "index": 82,
+      "text": "“정말 괜찮은 남자일까?”라는 질문이 하루에도 수십 번씩 내 마음속을 맴돌았습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_082_normal.mp3",
+      "duration": 6.087,
+      "start_time": 510.97400000000073,
+      "end_time": 517.0610000000007
+    },
+    {
+      "index": 83,
+      "text": "그렇게 계속해서 고민하던 어느 날, 나는 정말로 결심을 내리기로 했습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_083_normal.mp3",
+      "duration": 5.277,
+      "start_time": 517.3610000000007,
+      "end_time": 522.6380000000007
+    },
+    {
+      "index": 84,
+      "text": "“그래, 수진이의 결혼에 대해서 나도 참여하자.” 생각하면서, 수진의 남자친구와 만나기로 결정을 내렸습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_084_normal.mp3",
+      "duration": 8.856,
+      "start_time": 522.9380000000007,
+      "end_time": 531.7940000000007
+    },
+    {
+      "index": 85,
+      "text": "그의 성격과 경험에 대해 알아보고 싶었고, 또한 내 딸을 지켜줄 수 있는 사람인지 확인하고자 했죠",
+      "emotion": "wisdom",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_085_wisdom.mp3",
+      "duration": 7.471,
+      "start_time": 532.0940000000006,
+      "end_time": 539.5650000000006
+    },
+    {
+      "index": 86,
+      "text": "수진이 그에게 연락을 해줬고, 우리는 작은 커피숍에서 만났습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_086_normal.mp3",
+      "duration": 4.545,
+      "start_time": 539.8650000000006,
+      "end_time": 544.4100000000005
+    },
+    {
+      "index": 87,
+      "text": "그곳의 커피 향은 솔솔 풍겼고, 나는 그리도 긴장한 마음으로 그를 기다리고 있었습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_087_normal.mp3",
+      "duration": 6.583,
+      "start_time": 544.7100000000005,
+      "end_time": 551.2930000000005
+    },
+    {
+      "index": 88,
+      "text": "그 남자가 등장하자, 순간적으로 내 숨이 멈추었습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_088_normal.mp3",
+      "duration": 4.493,
+      "start_time": 551.5930000000004,
+      "end_time": 556.0860000000005
+    },
+    {
+      "index": 89,
+      "text": "“안녕하세요",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_089_normal.mp3",
+      "duration": 1.019,
+      "start_time": 556.3860000000004,
+      "end_time": 557.4050000000004
+    },
+    {
+      "index": 90,
+      "text": "수진이와의 인연이 있다고 하셨죠?” 그가 웃으며 말했습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_090_normal.mp3",
+      "duration": 4.598,
+      "start_time": 557.7050000000004,
+      "end_time": 562.3030000000003
+    },
+    {
+      "index": 91,
+      "text": "나는 미소를 지으면서도 내 마음속 불안감이 더 깊어지는 것을 느꼈습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_091_normal.mp3",
+      "duration": 5.695,
+      "start_time": 562.6030000000003,
+      "end_time": 568.2980000000003
+    },
+    {
+      "index": 92,
+      "text": "“네, 맞아요",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_092_normal.mp3",
+      "duration": 1.28,
+      "start_time": 568.5980000000003,
+      "end_time": 569.8780000000003
+    },
+    {
+      "index": 93,
+      "text": "반갑습니다.”라며 대답했지만, 내 눈은 그의 행동을 놓치지 않기 위해 주시하고 있었죠",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_093_normal.mp3",
+      "duration": 7.523,
+      "start_time": 570.1780000000002,
+      "end_time": 577.7010000000002
+    },
+    {
+      "index": 94,
+      "text": "“수진이는 정말 소중한 친구예요",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_094_normal.mp3",
+      "duration": 2.351,
+      "start_time": 578.0010000000002,
+      "end_time": 580.3520000000002
+    },
+    {
+      "index": 95,
+      "text": "제가 지켜줄게요.”라는 그의 말에 잠시 감동했습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_095_normal.mp3",
+      "duration": 4.78,
+      "start_time": 580.6520000000002,
+      "end_time": 585.4320000000001
+    },
+    {
+      "index": 96,
+      "text": "하지만 그 순간, 그가 자신의 진심을 담아 대답하는 모습을 보고, 마음속에서는 어떤 갈등이 일어납니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_096_normal.mp3",
+      "duration": 8.307,
+      "start_time": 585.7320000000001,
+      "end_time": 594.0390000000001
+    },
+    {
+      "index": 97,
+      "text": "“정말 그렇게 할 수 있을까?”라는 의구심이 나를 괴롭혔습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_097_normal.mp3",
+      "duration": 4.598,
+      "start_time": 594.339,
+      "end_time": 598.937
+    },
+    {
+      "index": 98,
+      "text": "계속해서 대화하면서도 그가 말하는 모든 것에 의심의 눈초리를 보내고 있었죠",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_098_normal.mp3",
+      "duration": 6.269,
+      "start_time": 599.237,
+      "end_time": 605.506
+    },
+    {
+      "index": 99,
+      "text": "“그에게도 결혼에 대한 진지한 생각이 있을까?”라는 마음이 생겼지만, 그와의 대화는 긴장을 풀어주는 것과 동시에 또 다른 의문을 불러일으켰습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_099_normal.mp3",
+      "duration": 11.598,
+      "start_time": 605.8059999999999,
+      "end_time": 617.4039999999999
+    },
+    {
+      "index": 100,
+      "text": "그날 대화가 끝나고 나면, 수진이와의 관계가 더 깊어질 것이라고 확신했어요",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_100_normal.mp3",
+      "duration": 5.851,
+      "start_time": 617.7039999999998,
+      "end_time": 623.5549999999998
+    },
+    {
+      "index": 101,
+      "text": "하지만, 그와의 대화 이후 조금 시간이 지나면서, 내가 느꼈던 불안감이 다시 찾아왔습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_101_normal.mp3",
+      "duration": 7.549,
+      "start_time": 623.8549999999998,
+      "end_time": 631.4039999999998
+    },
+    {
+      "index": 102,
+      "text": "수진이 그 남자와의 관계가 정말로 확고한 것인지, 아니면 그저 그녀의 사랑에 기댄 계기일 뿐인지를 되묻게 되었습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_102_normal.mp3",
+      "duration": 9.221,
+      "start_time": 631.7039999999997,
+      "end_time": 640.9249999999997
+    },
+    {
+      "index": 103,
+      "text": "“다시 말해, 그 남자가 수진을 정말로 사랑하고 있는지 어떻게 알 수 있을까?”라는 의구심이 제 마음을 가득 채웠습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_103_normal.mp3",
+      "duration": 9.143,
+      "start_time": 641.2249999999997,
+      "end_time": 650.3679999999997
+    },
+    {
+      "index": 104,
+      "text": "그리고 마지막으로 수진과의 갈등이 심화되면서, 나는 점점 그 남자에게 대한 불안감을 키우게 되었죠",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_104_normal.mp3",
+      "duration": 7.131,
+      "start_time": 650.6679999999997,
+      "end_time": 657.7989999999996
+    },
+    {
+      "index": 105,
+      "text": "결국, 수진과 그 남자와의 결혼이 이루어지게 되면서, 나는 가족과의 갈등을 겪게 되었고",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_105_normal.mp3",
+      "duration": 7.367,
+      "start_time": 658.0989999999996,
+      "end_time": 665.4659999999996
+    },
+    {
+      "index": 106,
+      "text": "그가 나를 믿지 못하게 만드는 상황이 더 깊어지기로 결심했습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_106_normal.mp3",
+      "duration": 4.728,
+      "start_time": 665.7659999999995,
+      "end_time": 670.4939999999995
+    },
+    {
+      "index": 107,
+      "text": "“내가 그렇게 만든 걸까?”라는 자책감이 나를 괴롭혔고, 결국에는 그에 대한 불신과 함께 고통스럽게 시간을 보내야 했습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_107_normal.mp3",
+      "duration": 10.344,
+      "start_time": 670.7939999999994,
+      "end_time": 681.1379999999995
+    },
+    {
+      "index": 108,
+      "text": "수진이의 결혼은 저녁이 되어도 끝나지 않았습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_108_normal.mp3",
+      "duration": 3.37,
+      "start_time": 681.4379999999994,
+      "end_time": 684.8079999999994
+    },
+    {
+      "index": 109,
+      "text": "아침, 점심, 저녁의 시간은 더 이상 의미가 없었고, 그에 대한 기대만이 내 마음속에서 조용히 소멸해갔죠",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_109_normal.mp3",
+      "duration": 9.613,
+      "start_time": 685.1079999999994,
+      "end_time": 694.7209999999993
+    },
+    {
+      "index": 110,
+      "text": "이런 시간을 보내다 보니, 내가 그 남자에게 할 말이 점점 떠오르지 않았습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_110_normal.mp3",
+      "duration": 5.878,
+      "start_time": 695.0209999999993,
+      "end_time": 700.8989999999993
+    },
+    {
+      "index": 111,
+      "text": "“어떻게 이럴 수가 있지?”라는 혼란과 불안이 나를 소비하고 있었습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_111_normal.mp3",
+      "duration": 5.016,
+      "start_time": 701.1989999999993,
+      "end_time": 706.2149999999992
+    },
+    {
+      "index": 112,
+      "text": "“수진이에게도 이걸 이야기할 수 있을까?”라는 질문이 계속 머릿속을 떠돌았습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_112_normal.mp3",
+      "duration": 5.695,
+      "start_time": 706.5149999999992,
+      "end_time": 712.2099999999992
+    },
+    {
+      "index": 113,
+      "text": "이럴수록 수진과의 관계는 점점 더 소원해졌고, 그 남자와의 불신은 깊어졌습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_113_normal.mp3",
+      "duration": 7.001,
+      "start_time": 712.5099999999992,
+      "end_time": 719.5109999999992
+    },
+    {
+      "index": 114,
+      "text": "결혼식에 가기도 전에, 머릿속은 엉망이 되어갔습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_114_normal.mp3",
+      "duration": 4.911,
+      "start_time": 719.8109999999991,
+      "end_time": 724.7219999999991
+    },
+    {
+      "index": 115,
+      "text": "그런 과정에서 수진과의 대화는 점점 줄어들었고, 결혼식 날에는 정말 긴장했어요",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_115_normal.mp3",
+      "duration": 6.217,
+      "start_time": 725.021999999999,
+      "end_time": 731.238999999999
+    },
+    {
+      "index": 116,
+      "text": "“무엇이 진짜일까?”라는 물음이 계속 떠오르면서도, 수진의 행복이 보이고 싶었습니다",
+      "emotion": "hope",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_116_hope.mp3",
+      "duration": 6.687,
+      "start_time": 731.538999999999,
+      "end_time": 738.225999999999
+    },
+    {
+      "index": 117,
+      "text": "결혼식 날, 수진은 아름다운 드레스를 입고 있었어요",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_117_normal.mp3",
+      "duration": 4.206,
+      "start_time": 738.5259999999989,
+      "end_time": 742.731999999999
+    },
+    {
+      "index": 118,
+      "text": "하지만 그 모습을 보면서도 마음속에서 “정말 이 남자가 수진을 행복하게 해줄 수 있을까?”라는 생각이 계속 떠올랐습니다",
+      "emotion": "hope",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_118_hope.mp3",
+      "duration": 9.561,
+      "start_time": 743.0319999999989,
+      "end_time": 752.5929999999989
+    },
+    {
+      "index": 119,
+      "text": "그 순간, 수진이 내게 다가와 손을 꽉 잡아주었어요",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_119_normal.mp3",
+      "duration": 4.598,
+      "start_time": 752.8929999999989,
+      "end_time": 757.4909999999988
+    },
+    {
+      "index": 120,
+      "text": "“엄마, 저 잘할 수 있을까요?”라는 질문에 심장이 쿵 내려앉았죠",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_120_normal.mp3",
+      "duration": 5.433,
+      "start_time": 757.7909999999988,
+      "end_time": 763.2239999999988
+    },
+    {
+      "index": 121,
+      "text": "“수진아, 너가 선택한 길이니까… 잘해보렴.”이라는 대답이 나왔습니다",
+      "emotion": "action",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_121_action.mp3",
+      "duration": 6.269,
+      "start_time": 763.5239999999988,
+      "end_time": 769.7929999999988
+    },
+    {
+      "index": 122,
+      "text": "그날 밤, 나는 불면의 시간을 보내며 수진이의 행복을 바라면서도, 나의 불안이 함께 잠들지 않도록 애썼습니다",
+      "emotion": "hope",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_122_hope.mp3",
+      "duration": 8.072,
+      "start_time": 770.0929999999987,
+      "end_time": 778.1649999999987
+    },
+    {
+      "index": 123,
+      "text": "시간이 흐르면서, 결혼식을 통해 감정의 격차가 더 커지게 되었습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_123_normal.mp3",
+      "duration": 6.087,
+      "start_time": 778.4649999999987,
+      "end_time": 784.5519999999987
+    },
+    {
+      "index": 124,
+      "text": "수진의 목소리가 내 귓가에서 사라진 듯한 느낌이었고, 그 남자에 대한 불신도 깊어갔습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_124_normal.mp3",
+      "duration": 6.687,
+      "start_time": 784.8519999999986,
+      "end_time": 791.5389999999986
+    },
+    {
+      "index": 125,
+      "text": "“이럴 바에야 나도 속박되지 않도록 해야 하지 않을까?”라는 생각이 절로 떠올랐죠",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_125_normal.mp3",
+      "duration": 5.512,
+      "start_time": 791.8389999999986,
+      "end_time": 797.3509999999985
+    },
+    {
+      "index": 126,
+      "text": "결국, 시간이 지나도 그것이 해결되지 않으면서도 나는 그 남자에게 내 딸을 맡겼습니다",
+      "emotion": "hope",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_126_hope.mp3",
+      "duration": 7.105,
+      "start_time": 797.6509999999985,
+      "end_time": 804.7559999999985
+    },
+    {
+      "index": 127,
+      "text": "그들이 함께 있는 모습을 보면서, 불안과 불신은 더욱 깊어졌습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_127_normal.mp3",
+      "duration": 5.329,
+      "start_time": 805.0559999999984,
+      "end_time": 810.3849999999984
+    },
+    {
+      "index": 128,
+      "text": "나는 수진이의 행복을 바라면서도, 그 남자와의 관계에 대해서는 생각이 깊어졌습니다",
+      "emotion": "hope",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_128_hope.mp3",
+      "duration": 6.165,
+      "start_time": 810.6849999999984,
+      "end_time": 816.8499999999983
+    },
+    {
+      "index": 129,
+      "text": "그렇게 몇 년이 흘렀습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_129_normal.mp3",
+      "duration": 2.22,
+      "start_time": 817.1499999999983,
+      "end_time": 819.3699999999983
+    },
+    {
+      "index": 130,
+      "text": "수진은 결국 결혼 후에도 행복하게 살고 있다고 말했지만, 그 안에는 불안감이 함께했죠",
+      "emotion": "hope",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_130_hope.mp3",
+      "duration": 6.217,
+      "start_time": 819.6699999999983,
+      "end_time": 825.8869999999982
+    },
+    {
+      "index": 131,
+      "text": "“결혼이란 결코 쉽지 않아…”라는 생각이 여전히 내 머릿속에 맴돌고 있었습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_131_normal.mp3",
+      "duration": 5.93,
+      "start_time": 826.1869999999982,
+      "end_time": 832.1169999999981
+    },
+    {
+      "index": 132,
+      "text": "그의 얘기를 듣고도, 나는 여전히 “정말 그 남자가 수진을 행복하게 해줄 수 있을까?”라는 생각으로 마음이 무너져 내리게 느껴졌습니다",
+      "emotion": "hope",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_132_hope.mp3",
+      "duration": 9.979,
+      "start_time": 832.4169999999981,
+      "end_time": 842.3959999999981
+    },
+    {
+      "index": 133,
+      "text": "지금 생각해보면, 그때 내가 더 열린 마음으로 수진의 선택을 받아들였더라면 어땠을까 하는 회한이 남아 있습니다",
+      "emotion": "action",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_133_action.mp3",
+      "duration": 8.02,
+      "start_time": 842.6959999999981,
+      "end_time": 850.7159999999981
+    },
+    {
+      "index": 134,
+      "text": "인생의 선택은 그저 그 사람의 것일 뿐, 나는 그를 지켜보는 존재일 뿐이라는 것을 깨달았습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_134_normal.mp3",
+      "duration": 7.105,
+      "start_time": 851.015999999998,
+      "end_time": 858.120999999998
+    },
+    {
+      "index": 135,
+      "text": "결국, 사랑하는 이와의 관계는 그 사람의 선택과 소중한 기억으로 가득할 것이라는 진리를 깨달은 후",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_135_normal.mp3",
+      "duration": 7.758,
+      "start_time": 858.420999999998,
+      "end_time": 866.178999999998
+    },
+    {
+      "index": 136,
+      "text": "조금 더 성숙한 마음으로 수진의 선택을 바라보게 되었던 것 같습니다",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_136_normal.mp3",
+      "duration": 4.78,
+      "start_time": 866.478999999998,
+      "end_time": 871.258999999998
+    },
+    {
+      "index": 137,
+      "text": "그날의 아침처럼 무심히 흘러간 시간 속에서, 인생은 때론 묵직한 선택의 연속임을 다시 깨닫게 되었습니다.",
+      "emotion": "normal",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_137_normal.mp3",
+      "duration": 8.124,
+      "start_time": 871.5589999999979,
+      "end_time": 879.682999999998
+    }
+  ]
+}
