@@ -1,0 +1,424 @@
+{
+  "session_id": "20250724_020514",
+  "timestamp": "2025-07-24T02:06:55.725101",
+  "sentence_count": 52,
+  "total_duration": 246.12000000000003,
+  "sentence_timings": [
+    {
+      "index": 0,
+      "text": "안녕하세요 여러분, 관계마스터입니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_000.wav",
+      "duration": 2.28,
+      "start_time": 0,
+      "end_time": 2.28
+    },
+    {
+      "index": 1,
+      "text": "오랜 상담 경력 동안 많은 이야기를 듣고 경험해 왔지만 오늘 여러분과 나눌 이야기는 많은 분들이 가장 궁금해하실 내용일 거라고 생각합니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_001.wav",
+      "duration": 9.12,
+      "start_time": 2.5799999999999996,
+      "end_time": 11.7
+    },
+    {
+      "index": 2,
+      "text": "'나의 배우자가 외도를 하고 있을까?' 이런 생각을 해본 적 있으신가요",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_002.wav",
+      "duration": 4.68,
+      "start_time": 12.0,
+      "end_time": 16.68
+    },
+    {
+      "index": 3,
+      "text": "국내의 통계에 따르면, 최근 10년 간 부부 가운데 8%가 이혼 사유로 외도를 꼽았다는 사실, 그만큼 이 문제는 우리 사회에서 외면할 수 없는 문제이며, 이야기해야 할 주제인 것입니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_003.wav",
+      "duration": 12.24,
+      "start_time": 16.98,
+      "end_time": 29.22
+    },
+    {
+      "index": 4,
+      "text": "기억에 생생히 남는 상담 사례가 하나 있습니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_004.wav",
+      "duration": 3.0,
+      "start_time": 29.520000000000003,
+      "end_time": 32.52
+    },
+    {
+      "index": 5,
+      "text": "고민을 듣던 중 '핸드폰에 비밀번호를 설정한 것은 처음이라 많이 놀랐다' 는 내용이었죠",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_005.wav",
+      "duration": 5.76,
+      "start_time": 32.82,
+      "end_time": 38.58
+    },
+    {
+      "index": 6,
+      "text": "생활 패턴이 갑자기 바뀌고, 피해가는 행동이 늘었다는 것입니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_006.wav",
+      "duration": 4.08,
+      "start_time": 38.88,
+      "end_time": 42.96
+    },
+    {
+      "index": 7,
+      "text": "그것만으로는 흔한 이야기지만 가장 결정적이었던 것은 남편이 비명을 내서 잠자리에 들 때마다 핸드폰을 손에서 놓지 않았다는 것입니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_007.wav",
+      "duration": 8.64,
+      "start_time": 43.260000000000005,
+      "end_time": 51.900000000000006
+    },
+    {
+      "index": 8,
+      "text": "저에게 상담을 부탁한 그녀는 이렇게 말했습니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_008.wav",
+      "duration": 3.0,
+      "start_time": 52.2,
+      "end_time": 55.2
+    },
+    {
+      "index": 9,
+      "text": "'솔직히 에는 그럴 사람 같지 않아요",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_009.wav",
+      "duration": 2.4,
+      "start_time": 55.5,
+      "end_time": 57.9
+    },
+    {
+      "index": 10,
+      "text": "헌데 걱정이 되서 이렇게 연락드리게 됐습니다.' 여러분도 이런 경험이 있으신가요",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_010.wav",
+      "duration": 5.279999999999999,
+      "start_time": 58.2,
+      "end_time": 63.480000000000004
+    },
+    {
+      "index": 11,
+      "text": "하지만 이런 상황이 얼마나 심각한 것인지 많은 분들이 인지하지 못하고 있습니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_011.wav",
+      "duration": 5.16,
+      "start_time": 63.78,
+      "end_time": 68.94
+    },
+    {
+      "index": 12,
+      "text": "외도는 그저 '그럴 줄 알았어' 이런 마음가짐으로 일축하고 지나치는 것이 아닙니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_012.wav",
+      "duration": 5.3999999999999995,
+      "start_time": 69.24,
+      "end_time": 74.64
+    },
+    {
+      "index": 13,
+      "text": "외도를 이야기하면서 제가 강조하고 싶은 것은 \"행동의 변화\"입니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_013.wav",
+      "duration": 4.32,
+      "start_time": 74.94,
+      "end_time": 79.25999999999999
+    },
+    {
+      "index": 14,
+      "text": "특히 알기 힘들고 미묘한 변화들마저도 간과해서는 안 되는 것들입니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_014.wav",
+      "duration": 4.4399999999999995,
+      "start_time": 79.56,
+      "end_time": 84.0
+    },
+    {
+      "index": 15,
+      "text": "보통 외도를 하는 사람들은 그 행동을 숨기기 위한 계획을 세우곤 합니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_015.wav",
+      "duration": 4.68,
+      "start_time": 84.3,
+      "end_time": 88.97999999999999
+    },
+    {
+      "index": 16,
+      "text": "그 와중에서도 흔들리지 않는 사실을 기록해둔 제가 30년 간 상담하면서 본 패턴들을 한번 알려드리겠습니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_016.wav",
+      "duration": 6.96,
+      "start_time": 89.28,
+      "end_time": 96.24
+    },
+    {
+      "index": 17,
+      "text": "첫 번째, 매우 반복적이고 일관된 생활 패턴을 가진 사람이 갑자기 생활 패턴에 변화가 있다면 그것은 경계해야 할 신호입니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_017.wav",
+      "duration": 8.16,
+      "start_time": 96.54,
+      "end_time": 104.7
+    },
+    {
+      "index": 18,
+      "text": "업무 스트레스라며 평소에 늦어도 7시에 집에 오던 사람이 몇 시간씩 늦게 들어오는 경우, 아무 이유 없이 늦은 저녁에 갑자기 나가버리는 경우 등입니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_018.wav",
+      "duration": 9.959999999999999,
+      "start_time": 105.0,
+      "end_time": 114.96
+    },
+    {
+      "index": 19,
+      "text": "이런 변화를 보인다면, 99퍼센트 확률로 외도의 신호일 가능성이 큽니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_019.wav",
+      "duration": 4.68,
+      "start_time": 115.26,
+      "end_time": 119.94
+    },
+    {
+      "index": 20,
+      "text": "두 번째로 신경을 쓰셔야 하는 부분은 '스마트폰 사용 패턴'입니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_020.wav",
+      "duration": 4.32,
+      "start_time": 120.24000000000001,
+      "end_time": 124.56
+    },
+    {
+      "index": 21,
+      "text": "어느 날부터 폰을 손에서 놓지 않는다거나, 잠시만 잠겨도 바로 확인하는 행동 등이 포함됩니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_021.wav",
+      "duration": 6.12,
+      "start_time": 124.86000000000001,
+      "end_time": 130.98000000000002
+    },
+    {
+      "index": 22,
+      "text": "이런 행동은 이런 사실을 암시합니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_022.wav",
+      "duration": 2.28,
+      "start_time": 131.28,
+      "end_time": 133.56
+    },
+    {
+      "index": 23,
+      "text": "그들은 무언가를 숨기고, 철저하게 지키려는 것입니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_023.wav",
+      "duration": 3.36,
+      "start_time": 133.86,
+      "end_time": 137.22000000000003
+    },
+    {
+      "index": 24,
+      "text": "세 번째는 감정의 변화입니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_024.wav",
+      "duration": 1.7999999999999998,
+      "start_time": 137.52,
+      "end_time": 139.32000000000002
+    },
+    {
+      "index": 25,
+      "text": "갑자기 무관심하게 행동한다거나, 의심을 받으면 과도하게 화를 내거나, 너무 과도하게 사랑한다는 것을 표현하는 등 일반적으로 원활했던 의사소통이 끊기기도 합니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_025.wav",
+      "duration": 10.559999999999999,
+      "start_time": 139.62,
+      "end_time": 150.18
+    },
+    {
+      "index": 26,
+      "text": "이런 모습은 외도 후 주는 비상 신호일 확률이 높습니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_026.wav",
+      "duration": 3.5999999999999996,
+      "start_time": 150.48000000000002,
+      "end_time": 154.08
+    },
+    {
+      "index": 27,
+      "text": "다른 흥미로운 사례로는 갑자기 사랑에 빠진 것처럼 행동하다가 결혼을 강요한 분의 사례가 있었습니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_027.wav",
+      "duration": 6.4799999999999995,
+      "start_time": 154.38000000000002,
+      "end_time": 160.86
+    },
+    {
+      "index": 28,
+      "text": "혹시 이런 경우도 외도인가 싶을 수 있죠",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_028.wav",
+      "duration": 2.6399999999999997,
+      "start_time": 161.16000000000003,
+      "end_time": 163.8
+    },
+    {
+      "index": 29,
+      "text": "그런데 그분이 걱정하던 그날이 오더군요",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_029.wav",
+      "duration": 2.52,
+      "start_time": 164.10000000000002,
+      "end_time": 166.62000000000003
+    },
+    {
+      "index": 30,
+      "text": "모든 상황이 순탄히 흘러가는 터에 그 분이 말하더군요",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_030.wav",
+      "duration": 3.48,
+      "start_time": 166.92000000000002,
+      "end_time": 170.4
+    },
+    {
+      "index": 31,
+      "text": "'왜 이렇게 나에게 착한 거져?' 라고 말입니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_031.wav",
+      "duration": 3.12,
+      "start_time": 170.70000000000002,
+      "end_time": 173.82000000000002
+    },
+    {
+      "index": 32,
+      "text": "이 상황도 외도신호일 수 있습니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_032.wav",
+      "duration": 2.16,
+      "start_time": 174.12,
+      "end_time": 176.28
+    },
+    {
+      "index": 33,
+      "text": "외도자들은 그들이 범한 잘못을 숨기기 위해 지나치게 착한 모습을 보여주곤 합니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_033.wav",
+      "duration": 5.279999999999999,
+      "start_time": 176.58,
+      "end_time": 181.86
+    },
+    {
+      "index": 34,
+      "text": "그럼, 이런 상황에 처했을 때 궁극적으로 어떻게 대처해야 할까요",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_034.wav",
+      "duration": 4.2,
+      "start_time": 182.16000000000003,
+      "end_time": 186.36
+    },
+    {
+      "index": 35,
+      "text": "첫 번째, 상대방에게 의심의 눈초리를 던지지 말고, 논리적인 판단으로 행동하는 것이 중요합니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_035.wav",
+      "duration": 6.24,
+      "start_time": 186.66000000000003,
+      "end_time": 192.90000000000003
+    },
+    {
+      "index": 36,
+      "text": "감정에 휩싸여 소중한 관계가 무너지는 것을 막으려면 이토록 중요한 일다운 일에 치중하실 것을 추천드립니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_036.wav",
+      "duration": 6.96,
+      "start_time": 193.20000000000002,
+      "end_time": 200.16000000000003
+    },
+    {
+      "index": 37,
+      "text": "두 번째, 결정적인 대화를 준비해야 합니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_037.wav",
+      "duration": 2.76,
+      "start_time": 200.46,
+      "end_time": 203.22
+    },
+    {
+      "index": 38,
+      "text": "이것이 중요합니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_038.wav",
+      "duration": 1.08,
+      "start_time": 203.52,
+      "end_time": 204.60000000000002
+    },
+    {
+      "index": 39,
+      "text": "이런 최악의 상황에서도 주도권을 잡아야 합니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_039.wav",
+      "duration": 3.0,
+      "start_time": 204.9,
+      "end_time": 207.9
+    },
+    {
+      "index": 40,
+      "text": "이 의심과 걱정이 대화의 주제가 되어야 합니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_040.wav",
+      "duration": 3.0,
+      "start_time": 208.20000000000002,
+      "end_time": 211.20000000000002
+    },
+    {
+      "index": 41,
+      "text": "그런 상황에 성공적으로 유도하기 위해서는 대화를 시작하기 전에 튼튼한 마음을 가꿔야 합니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_041.wav",
+      "duration": 6.0,
+      "start_time": 211.50000000000003,
+      "end_time": 217.50000000000003
+    },
+    {
+      "index": 42,
+      "text": "하지만, 중요한 주의사항이 있습니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_042.wav",
+      "duration": 2.28,
+      "start_time": 217.80000000000004,
+      "end_time": 220.08000000000004
+    },
+    {
+      "index": 43,
+      "text": "소중한 사람과의 관계를 지키기 위해 자신의 기분과 감정을 숨기는 행위, 그것은 결코 추천하지 않습니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_043.wav",
+      "duration": 6.72,
+      "start_time": 220.38000000000005,
+      "end_time": 227.10000000000005
+    },
+    {
+      "index": 44,
+      "text": "외도 여부를 확인하려 노력하는 과정에서 가능한 안전하고 합리적인 방법을 선택해야 합니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_044.wav",
+      "duration": 5.76,
+      "start_time": 227.40000000000006,
+      "end_time": 233.16000000000005
+    },
+    {
+      "index": 45,
+      "text": "오늘 말씀드린 내용 정리하면, 외도 신호 뒤에 숨겨진 심리적 변화를 이해하고 인식하는 것이 가장 중요합니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_045.wav",
+      "duration": 7.08,
+      "start_time": 233.46000000000006,
+      "end_time": 240.54000000000008
+    },
+    {
+      "index": 46,
+      "text": "그러나 확인과 행동에 앞서, 최선을 다해 대화를 시도하는 것이 효과적입니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_046.wav",
+      "duration": 4.92,
+      "start_time": 240.84000000000006,
+      "end_time": 245.76000000000005
+    },
+    {
+      "index": 47,
+      "text": "그리고, 고통스러운 의심과 혼란을 억누를 수 있는 내면의 힘이 중요합니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_047.wav",
+      "duration": 4.8,
+      "start_time": 246.06000000000006,
+      "end_time": 250.86000000000007
+    },
+    {
+      "index": 48,
+      "text": "다음 영상에서는 더욱 충격적인 이야기를 준비했습니다",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_048.wav",
+      "duration": 3.36,
+      "start_time": 251.16000000000005,
+      "end_time": 254.52000000000007
+    },
+    {
+      "index": 49,
+      "text": "훨씬 더 실질적인 해결전략을 함께 나누기 위해서죠",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_049.wav",
+      "duration": 3.2399999999999998,
+      "start_time": 254.82000000000005,
+      "end_time": 258.06000000000006
+    },
+    {
+      "index": 50,
+      "text": "그럼 그때 다시 만나요",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_050.wav",
+      "duration": 1.44,
+      "start_time": 258.36000000000007,
+      "end_time": 259.80000000000007
+    },
+    {
+      "index": 51,
+      "text": "관계마스터 였습니다.",
+      "file_path": "/home/1437225.cloudwaysapps.com/cfvvwxhdxa/private_html/youtube_automation/audio/sentences/sentence_051.wav",
+      "duration": 1.3199999999999998,
+      "start_time": 260.1000000000001,
+      "end_time": 261.4200000000001
+    }
+  ]
+}
